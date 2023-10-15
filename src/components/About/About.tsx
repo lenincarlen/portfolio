@@ -20,7 +20,7 @@ export function About() {
                 transition={motionTransitionsAbout.transition}
             >
                 <h1 className="mb-6 md:text-4xl">Creando webs con <br /> <span className="text-secondary">diseños espectaculares</span></h1>
-                <p>e-Commerce Master > WordPress | Front-End Developer > JavaScript / React.js | Java Backend > Sprint Boota. </p>
+                <p>e-Commerce Master, WordPress | Front-End Developer, JavaScript / React.js | Java Backend, Sprint Boota. </p>
 
                 <div className="grid justify-between grid-cols-2 gap-3 my-8 md:flex md:grid-cols-4 md:gap-6">
                     {dataCounter.map(({ id, endCounter, text, lineRight, lineRightMobile }) => (

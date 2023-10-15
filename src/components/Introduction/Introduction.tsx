@@ -24,7 +24,7 @@ export function Introduction() {
                         <h1 className="mb-5 text-4xl leading-tight md:mb-10">Si puedes imaginarlo,  <br />
                             <span className="text-secondary">puedo programartelo</span></h1>
                         <p className="max-w-sm  mb-10 text-xl md:max-w-2xl md:mx-0 md:mb-16 md:text-xl">
-                        Puedo transformar tus ideas en sitios web asombrosos y aplicaciones interactivas, crean soluciones que impulsan tu presencia en línea y mejoran la experiencia de tus usuarios.".
+                        Puedo transformar tus ideas en sitios web asombrosos y aplicaciones interactivas, crean soluciones que impulsan tu presencia en línea y mejoran la experiencia de tus usuarios.
                         </p>
 
                         <div className="flex flex-col items-center gap-3 md:gap-10 md:flex-row">
